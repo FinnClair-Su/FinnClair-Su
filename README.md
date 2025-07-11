@@ -1,77 +1,314 @@
 # 苏心贤 - 憧憬成为educator的learner 👨‍🎓
 
-![GitHub followers](https://img.shields.io/github/followers/FinnClair-Su?style=social)
-![](https://img.shields.io/badge/LLM-Researcher-blue)
-![](https://img.shields.io/badge/Education-Innovator-green)
-![](https://img.shields.io/badge/Tech-Enthusiast-orange)
+<div align="center">
 
-## 👋 关于我
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Learning+Science+%2B+AI+Researcher;EduTech+Innovator;Cognitive+Security+Explorer;Building+the+Future+of+Education)
 
-欢迎！我是一名就读于BJTU的直博生，本科专业是计算机，博士学科选择了网络安全。目前处于大二到大三的暑假，刚刚进组。我目前在做寻找软件供应链漏洞的Agent，以及多元文化背景下的LLM自监督学习。在计算机科学之外，我热爱着**Learning Science**和**EduTech**。我希望致力于将前沿技术与科学和教育实践结合起来，探索如何通过技术手段优化学习体验并推进教育公平。
+[![GitHub followers](https://img.shields.io/github/followers/FinnClair-Su?style=for-the-badge&logo=github&labelColor=2E3440&color=88C0D0)](https://github.com/FinnClair-Su)
+[![Website](https://img.shields.io/badge/Website-fcus.dev-blue?style=for-the-badge&logo=safari&logoColor=white)](https://fcus.dev)
+[![Email](https://img.shields.io/badge/Email-kanade271828%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanade271828@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Knd271828-yellow?style=for-the-badge)](https://huggingface.co/Knd271828)
 
-我也对LLM的隐私，破限，深度伪造等方面感兴趣，在SillyTavern的使用中了解和探索的尤其多；同时我关注**认知安全**，对LLM时代的舆论制造和风控，乃至模型本身的政治倾向略有研究。
+![](https://img.shields.io/badge/LLM-Researcher-4C566A?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Education-Innovator-5E81AC?style=for-the-badge&logo=academia&logoColor=white)
+![](https://img.shields.io/badge/Tech-Enthusiast-BF616A?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Cognitive-Security-A3BE8C?style=for-the-badge&logo=shield&logoColor=white)
 
-我的个人网站是https://fcsu.dev
+</div>
 
-寓意是Flowing Code, Structured Universe
+## 👨‍💻 关于我
 
+<table>
+<tr>
+<td width="60%">
+
+🎓 **学术背景**
+- 北京交通大学直博生
+- 本科：计算机科学 | 博士：网络安全
+- 目前处于大二到大三的暑假阶段
+
+🔬 **研究方向**
+- 软件供应链漏洞Agent检测
+- 多元文化背景下的LLM自监督学习
+- Learning Science & EduTech融合创新
+
+🌟 **研究理念**
 > *"技术应当服务于人类认知的自然发展，教育关系应当顺应教育技术的发展。"*
+>
+> *Flowing Code, Structured Universe* - 让代码如流水般自然，让宇宙如结构般有序
 
-## 💻 技术栈
+</td>
+<td width="40%">
 
+```python
+class SuXinxian:
+    def __init__(self):
+        self.name = "苏心贤"
+        self.role = "Educator-to-be Learner"
+        self.university = "BJTU"
+        self.interests = [
+            "Learning Science",
+            "AI Agent Development", 
+            "Cognitive Security",
+            "Educational Technology"
+        ]
+        self.motto = "Meta cognition, Desirable difficulty"
+    
+    def current_focus(self):
+        return {
+            "research": ["Supply Chain Security", "LLM Self-Supervision"],
+            "passion": ["EduTech Innovation", "AI Safety"],
+            "exploration": ["Cognitive Security", "LLM Ethics"]
+        }
 ```
-- 语言: C++, Python, HTML/CSS, TS
-- AI/ML: LLM部署与微调, Prompt Engineering, AIGC实践，Agent开发，机器学习与深度学习入门
-- 网络安全: AIGC安全分析, 隐私保护, 大模型破限与注入攻击
-- 开发环境和工具: Linux/Unix, Kali, Docker, Cursor, Git, CF Pages
-- 云服务: 公网服务器部署, OpenRouter, Google Cloud
+
+</td>
+</tr>
+</table>
+
+## 🛠️ 技术栈与能力图谱
+
+<div align="center">
+
+### 💻 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI/ML 技术栈
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### 🔧 开发工具与环境
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### ☁️ 云服务与部署
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge)
+
+</div>
+
+## 🚀 精选项目展示
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🔗 ArcanAgent
+*Bidirectional Linking is All You Need*
+
+<a href="https://github.com/FinnClair-Su/ArcanAgent">
+<img src="https://img.shields.io/badge/🃏%20ArcanAgent-Revolutionary%20Knowledge%20Management-blueviolet?style=for-the-badge"/>
+</a>
+
+**🧠 核心创新**
+- 纯Markdown双向链接系统取代复杂图数据库
+- 22个大阿卡纳主题认知智能体
+- 维果茨基ZPD理论与认知负荷理论实践
+- FSRS间隔重复算法集成
+
+**🌟 技术亮点**
+- 零数据库依赖的知识管理
+- MCP协议智能体通信
+- Obsidian无缝兼容
+- 认知科学驱动的学习路径规划
+
+</td>
+<td width="50%">
+
+### 📝 XYY-Diary Template
+*Academic Blog with ASCII Art*
+
+<a href="https://github.com/FinnClair-Su/xyy-diary-template">
+<img src="https://img.shields.io/badge/📖%20Blog%20Template-Docusaurus%20Powered-success?style=for-the-badge"/>
+</a>
+
+**✨ 特色功能**
+- 多分区博客组织（学习、技术、生活）
+- 独特ASCII动画计数器
+- 响应式设计与深色模式
+- 一键部署到多平台
+
+**🎨 设计理念**
+- 学习进度可视化
+- 技术怀旧风格
+- 内容分类管理
+- SEO优化布局
+
+</td>
+</tr>
+</table>
+</div>
+
+## 🔬 LLM研究历程与实践深度
+
+<details>
+<summary><b>🎯 点击展开我的LLM探索之路</b></summary>
+
+### 📅 时间线式发展轨迹
+
+```mermaid
+timeline
+    title LLM Research Journey
+    
+    2022.11 : ChatGPT发布首周开始探索
+           : 早期API调用与提示工程实验
+    
+    2023.Q1 : 备战高考，与不太聪明的AI交流积累了许多经验
+           : 我们需要更强的模型
+    
+    2023.Q2 : 进入GPT4时代
+           : Nothing but 🐟
+    
+    2024.Q3 : 微调与本地部署
+           : 有了16G VRAM的显卡
+           : 从Mistra1到Gemma，探索了多个开源模型
+    
+    2025.Q1 : 复杂提示框架研究
+           : SG-FSM(自引导有限状态机)框架
+           : 提示工程方法论对比
+    
+    2025.Q2 : Agent开发
+           : ArcanAgent的思想雏形于我之前难产的CongiAgent中诞生
+           : 本地AIGC工作流优化
+```
+</details>
+
+## 🏗️ 高性能研究环境
+
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+
+### 💻 工作站配置
+```yaml
+CPU: 7800X3D
+Memory: 64GB DDR5
+GPU: RTX 4080S (16GB VRAM)
+Storage: Seagate 530
+And MacBook & Mac mini
+OS: macOS + Windows + Linux
 ```
 
+</td>
+<td width="33%">
 
-## 🔬 LLM研究与实践
+### 🖥️ 服务器环境
+```yaml
+Device: Mac Mini M4
+Network: 公网IPv4/IPv6
+Services: 持续部署服务
+Usage: 轻量服务托管
+Uptime: 24/7可用性
+```
 
-作为LLM早期探索者，我的实践经验包括:
+</td>
+<td width="33%">
 
-- **模型部署**: 在ChatGPT发布首周即开始探索，之后本地部署Mistral Nemo，Llama3.1，qwen3等多种开源模型，对比参数量与量化的性能影响
-- **微调与优化**: 对Llama3 8b进行LoRA微调实验，探索性能边界
-- **提示工程研究**: 对比研究从SG-FSM(自引导有限状态机)等复杂提示框架到简单few-shot和zero-shot的性能差异
-- **本地AIGC生态**: 成功部署Ollama、Stable Diffusion、So-VITS等AIGC项目
+### ☁️ 云资源矩阵
+```yaml
+API_Services:
+  - OpenRouter (多模型接入)
+  - SiliconFlow (国产模型)
+  - Google Cloud (企业级)
+Payment: 国际支付能力
+Budget: 可持续投入
+```
 
-## 🛠️ 技术环境
+</td>
+</tr>
+</table>
+</div>
 
-我维护着一套全面的开发和研究环境:
+## 🎯 研究兴趣与未来愿景
 
-- **高性能工作站**: 64GB DDR5内存、16GB VRAM (RTX 4080S)
-- **服务器环境**: Mac Mini M4，用于持续部署和轻量服务托管，有公网IPv4和IPv6
-- **操作系统**: 熟练使用macOS、Windows，了解Linux
-- **云资源**: 具备国际支付能力，使用Openrouter和SiliconFlow各类商业API服务，以及Google Cloud
+<div align="center">
 
-## 🔭 研究兴趣
+```mermaid
+mindmap
+  root((Research Focus))
+    EduTech Innovation
+      AI辅助教学新模式
+      个性化学习工具
+      认知科学应用
+    AI Agent Development
+      学习科学原则导向
+      多智能体协作
+      认知架构设计
+    Cognitive Security
+      信息操纵防护
+      深度伪造检测
+      模型政治倾向研究
+    Future Vision
+      教育特化模型训练
+      认知多样性适应
+      信息茧房破除
+      安全意识培养
+```
 
-我的研究兴趣集中在以下几个方向:
+</div>
 
-- **教育技术创新**: 探索AI辅助教学的新模式和工具
-- **AI Agent**: 基于学习科学原则的自动化工具
-- **认知安全**: 研究信息操纵、深度伪造等对人类认知的挑战
+### 🌟 长期目标
+- 🎓 **教育AI模型**: 训练类似Google LearnLM的教育特化模型
+- 🧠 **个性化工具**: 构建适应学生认知多样性的AI学习助手  
+- 🛡️ **认知安全**: 破除信息茧房，保护认知安全
+- 👨‍🏫 **培养新一代**: 培养具备认知科学知识的下一代学习者
 
-## 🌱 愿景
+## 📊 GitHub 数据洞察
 
-作为期望为教育领域做出贡献的研究者，我的愿望是:
+<div align="center">
 
-- 将前沿技术与认知科学深度融合，创造更好的AI学习应用
-- 训练出类似Google LearnLM的教育特化模型，构建适应学生认知多样性的个性化工具
-- 破除信息茧房，保护认知安全，让每个人都能获取客观而辩证的信息
-- 培养具备安全意识的下一代
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FinnClair-Su&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnClair-Su&layout=compact&theme=nord"/>
 
-## 📫 联系方式
+</div>
 
-- 📧 Email: [kanade271828@gmail.com]
-- 🤗 Huggingface: [[@Knd271828](https://huggingface.co/Knd271828)]
-- 🐙 GitHub: [https://github.com/FinnClair-Su]
-- 🕸️ Personal Site: [https://fcus.dev]
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FinnClair-Su&theme=nord)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FinnClair-Su&theme=nord&area=true&hide_border=true)
+
+</div>
+
+## 🤝 学术合作与交流
+
+<div align="center">
+
+| 维度 | 详情 | 联系方式 |
+|------|------|----------|
+| 📧 **学术邮箱** | 研究合作与讨论 | [kanade271828@gmail.com](mailto:kanade271828@gmail.com) |
+| 🤗 **开源平台** | 模型与数据集分享 | [@Knd271828](https://huggingface.co/Knd271828) |
+| 🐙 **代码协作** | 开源项目贡献 | [FinnClair-Su](https://github.com/FinnClair-Su) |
+| 🌐 **个人网站** | 一些博客和个人生活感悟 | [fcus.dev](https://fcus.dev) |
+
+</div>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FinnClair-Su&show_icons=true&theme=radical)
+<div align="center">
 
-*Meta cognition，Desirable difficulty*
+### 💭 Meta Cognition | 🎯 Desirable Difficulty
+
+*"在认知的元层面思考学习，在适宜的困难中寻求成长"*
+
+![Visitor Count](https://profile-counter.glitch.me/FinnClair-Su/count.svg)
+
+**感谢您的关注！期待与您在学习科学与AI的交汇点相遇 🚀**
+
+</div>
