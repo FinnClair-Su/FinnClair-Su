@@ -66,7 +66,7 @@
 ## 📫 联系方式
 
 - 📧 Email: [kanade271828@gmail.com]
-- 🤗 Huggingface: [@Knd271828]
+- 🤗 Huggingface: [[@Knd271828](https://huggingface.co/Knd271828)]
 - 🐙 GitHub: [https://github.com/FinnClair-Su]
 - 🕸️ Personal Site: [https://fcus.dev]
 
